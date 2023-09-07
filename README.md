@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lorriu
-- 👀 I’m interested in software engineering, web development & Track & Field.
+- 👀 I’m interested in software engineering, web development, technical consulting & Track & Field.
 - 🌱 I’m currently learning java and javascript.
 - 💞️ I’m looking to collaborate on any software projects.
 - 📫 How to reach me: LinkedIn (Lorraine Ugen) 
