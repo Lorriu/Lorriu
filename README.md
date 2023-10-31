@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any software projects.
 - 📫 How to reach me: LinkedIn (<a href="https://www.linkedin.com/in/lorraine-ugen-03b08480/" target=”_blank” > Lorraine Ugen</a> )
 
-With over 15 years of experience as a Professional Olympic Athlete, I have consistently strived for excellence, pushing the boundaries of what's possible in my field. This unwavering commitment to success led me to achieve two World Championships Bronze medals and a spot in the Olympic Finals.
+With over 15 years of experience as a Professional Olympic Athlete, I have consistently strived for excellence, pushing the boundaries of what's possible in my field. This commitment to success led me to achieve two World Championships Bronze medals and a spot in the Olympic Finals.
 
 My journey took an unexpected turn when I discovered a passion for coding. I embarked on an introductory coding course out of curiosity, and I was pleasantly surprised by how quickly I embraced this new challenge. I found immense joy in acquiring new skills and tackling complex problems to create innovative digital products. My fascination with technology, which had always lingered in the background, suddenly took center stage.
 
