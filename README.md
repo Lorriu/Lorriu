@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lorriu
 - 👀 I’m interested in Software Engineering, Web development, Test Engineering & Track & Field.
-- 🌱 I’m currently learning java and javascript.
+- 🌱 I’m currently coding in java and javascript.
 - 💞️ I’m looking to collaborate on any software projects.
 - 📫 How to reach me: LinkedIn (<a href="https://www.linkedin.com/in/lorraine-ugen-03b08480/" target=”_blank” > Lorraine Ugen</a> )
 
